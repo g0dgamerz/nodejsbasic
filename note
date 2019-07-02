@@ -1,0 +1,20 @@
+index.js
+server.js
+app.js
+
+
+window object contains every thing
+
+
+(function(exports, require, module, ___dirname, __filename )){
+}
+
+exports ,require and module are all object
+
+1.require-> path ,url ,fs , HTTP
+2exports
+3.module
+4.__dirname
+5.__filename
+
+
